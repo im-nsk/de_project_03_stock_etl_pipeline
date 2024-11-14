@@ -53,7 +53,7 @@ def upload_to_s3(bucket_name, file_content, file_name):
 
 # API URL and Key (Replace with actual URL and API Key)
 api_url = "https://www.alphavantage.co/query"
-api_key = "48GCYRX4XV5AZRHC"
+api_key = "getfromportal"
 params = {
     "function": "TIME_SERIES_INTRADAY",
     "symbol": "IBM",
