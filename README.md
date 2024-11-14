@@ -57,4 +57,4 @@ By the end of this project, you will have:
 
 If you want to stay updated and be part of community, you can join channels below: WhatsApp Channel: [https://whatsapp.com/channel/0029Var3a3zFHWqARmaU462V] Telegram Channel: [https://t.me/data_land_im_nsk]
 
-❤️Think this is useful? Don't forget to give star (top right corener) 🌟🌟🌟
+❤️Think this is useful? Don't forget to give star (top right corner) 🌟🌟🌟
